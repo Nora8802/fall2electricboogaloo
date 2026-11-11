@@ -1,0 +1,15 @@
+{
+  "gearing": {
+    "drive": {
+      "gearRatio": 4.71,
+      "diameter": 4.0
+    },
+    "angle": {
+      "gearRatio": 46.42
+    }
+  },
+  "statorCurrentLimit": {
+    "drive": 40,
+    "angle": 20
+  }
+}

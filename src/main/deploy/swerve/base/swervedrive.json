@@ -1,0 +1,15 @@
+{
+  "gyro": {
+    "type": "navx_spi",
+    "id": 0,
+    "canbus": null
+  },
+  "gyroInvert": false,
+  "gyroAxis": "yaw",
+  "modules": [
+    "frontleft.json",
+    "frontright.json",
+    "backleft.json",
+    "backright.json"
+  ]
+}
